@@ -1,7 +1,7 @@
 {
-  "name": "redis",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "name": "@strapi/strapi-redis-connection",
+  "version": "0.0.1",
+  "description": "Redis connection plugin for strapi.",
   "strapi": {
     "name": "redis",
     "description": "Description of Redis plugin",
